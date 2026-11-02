@@ -12,7 +12,7 @@ Get Codes of Remote Controls (InfraRed) using Python
 ## File Map
     mapa_aoc_roku.json
 
-This model runs the Control *AOC + Roku TV*, maybe you using AI you can adapt to your remote control model.
+This model runs the Control *AOC + Roku TV*, maybe using AI you can adapt to your remote control model.
 
 ## Esquema de Montagem
     Pino no CP2102 (USB) -> Pino no YS-IRTM (IR) = Função
